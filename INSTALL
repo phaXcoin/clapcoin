@@ -1,0 +1,9 @@
+Building Clapcoin
+
+See doc/readme-qt.rst for instructions on building Clapcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Clapcoin.
+
+See doc/build-*.txt for instructions on building clapcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Clapcoin.
